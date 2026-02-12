@@ -15,3 +15,5 @@ Functional Requirements:
 6.  Made entirely of 18" x 24" x 3/16" (5mm) foam core board
 7.  No adhesives
 8.  Mass < 500g
+
+As a group, we were also tasked with creating a brochure for the chair that outlines the design process and the chair in its final constructed stage.
